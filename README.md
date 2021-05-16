@@ -15,6 +15,6 @@ Python学習用にDokerを使って ubuntu で jupyterlab を起動します
    ```bash
    # [my-python] でビルド
    $ docker build -t my-python .
-   # [my-container] でコンテナ起動
+   # [my-container] でコンテナ起動（ローカル環境：~/MyDocker/workをDocker内：/workspace へマウント）
    $ docker run -it -p 8888:8888 -v ~/MyDocker/work:/workspace --name my-container my-python
    ```
