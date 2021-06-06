@@ -8,7 +8,11 @@ Python学習用にDokerを使って ubuntu で jupyterlab を起動します
 
 ### Docker環境がない場合は下記ページを参考にセットアップ
 
-- https://qiita.com/zaki-lknr/items/db99909ba1eb27803456
+- Windows へ Docker をセットアップ  
+  https://qiita.com/zaki-lknr/items/db99909ba1eb27803456
+
+- ubuntu へ Docker をセットアップ  
+  https://github.com/murcubcc110/Ubuntu-Docker/blob/main/README.md
 
 ### Docker環境がある場合は
 
