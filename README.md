@@ -1,6 +1,9 @@
 # Python-Dockerfile
 Python学習用にDokerを使って ubuntu で jupyterlab を起動します
 
+##### Doker を使わずに ubuntu に直接環境構築する場合は下記ページを参考にセットアップ
+- https://github.com/murcubcc110/Ubuntu-Docker/blob/main/README2.md
+
 # 使い方
 
 ### Docker環境がない場合は下記ページを参考にセットアップ
